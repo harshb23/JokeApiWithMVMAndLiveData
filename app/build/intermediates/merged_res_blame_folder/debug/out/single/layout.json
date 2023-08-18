@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harsh/.gradle/daemon/8.0/com.harshbhatt.finalexam.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/Users/harsh/.gradle/daemon/8.0/com.harshbhatt.finalexam.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.harshbhatt.finalexam.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.harshbhatt.finalexam.app-main-45:/layout/activity_main.xml"
+    }
+]
